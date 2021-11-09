@@ -1,0 +1,13 @@
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\bin\Release\netcoreapp3.1\08.06.21.exe
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\bin\Release\netcoreapp3.1\08.06.21.deps.json
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\bin\Release\netcoreapp3.1\08.06.21.runtimeconfig.json
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\bin\Release\netcoreapp3.1\08.06.21.runtimeconfig.dev.json
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\bin\Release\netcoreapp3.1\08.06.21.dll
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\bin\Release\netcoreapp3.1\08.06.21.pdb
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\obj\Release\netcoreapp3.1\08.06.21.AssemblyInfoInputs.cache
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\obj\Release\netcoreapp3.1\08.06.21.AssemblyInfo.cs
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\obj\Release\netcoreapp3.1\08.06.21.csproj.CoreCompileInputs.cache
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\obj\Release\netcoreapp3.1\08.06.21.dll
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\obj\Release\netcoreapp3.1\08.06.21.pdb
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\obj\Release\netcoreapp3.1\08.06.21.genruntimeconfig.cache
+C:\Users\pc-3\source\repos\08.06.21\08.06.21\obj\Release\netcoreapp3.1\08.06.21.csprojAssemblyReference.cache
